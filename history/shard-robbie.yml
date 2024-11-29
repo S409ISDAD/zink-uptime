@@ -1,7 +1,7 @@
-url: http://dono-01.danbot.host
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-29T22:28:08.127Z
+url: http://dono-01.danbot.host:2047
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2024-11-29T22:33:14.584Z
 startTime: 2024-11-29T22:28:08.122Z
 generator: Upptime <https://github.com/upptime/upptime>
