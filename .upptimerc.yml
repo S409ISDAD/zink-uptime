@@ -3,19 +3,62 @@ owner: S409ISDAD # Your GitHub organization or username, where this repository l
 repo: zink-uptime # The name of this repository
 
 sites:
-  - name: Shard 1
+  - name: Shard Jayden
     url: https://zb.409409409.xyz
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Shard Daniel
+    url: https://zink-bot-production.onrender.com
+  - name: Shard Jack
+    url: https://zink-bot-porductution.onrender.com
+  - name: Shard Ava
+    url: http://45.87.172.181
+    port: 2898
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Robbie
+    url: http://dono-01.danbot.host
+    port: 2047
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Cole
+    url: http://deka.pylex.software
+    port: 9886
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Sophia
+    url: http://192.99.10.133
+    port: 6894
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Jacob
+    url: https://zink-bot.onrender.com
     port: 80
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
+  - name: Shard Cameron
+    url: http://cameron.zinkhost.cloud
+    port: 22565
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Cameron
+    url: http://45.87.172.181
+    port: 2898
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Lewis
+    url: http://lewis.zinkhost.cloud
+    port: 22565
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Ethan
+    url: http://ethan.zinkhost.cloud
+    port: 22565
+    check: "tcp-ping"
+    ipv6: false
+  - name: Shard Lucas
+    url: http://lucas.zinkhost.cloud
+    port: 22565
+    check: "tcp-ping"
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
