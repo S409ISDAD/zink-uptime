@@ -10,55 +10,24 @@ sites:
   - name: Shard Jack
     url: https://zink-bot-porductution.onrender.com
   - name: Shard Ava
-    url: http://45.87.172.181
-    port: 2898
-    check: "tcp-ping"
-    ipv6: false
+    url: http://45.87.172.181:2898
   - name: Shard Robbie
-    url: http://dono-01.danbot.host
-    port: 2047
-    check: "tcp-ping"
-    ipv6: false
+    url: http://dono-01.danbot.host:2047
   - name: Shard Cole
-    url: http://deka.pylex.software
-    port: 9886
-    check: "tcp-ping"
-    ipv6: false
+    url: http://deka.pylex.software:9886
   - name: Shard Sophia
-    url: http://192.99.10.133
-    port: 6894
-    check: "tcp-ping"
-    ipv6: false
+    url: http://192.99.10.133:6894
   - name: Shard Jacob
     url: https://zink-bot.onrender.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
   - name: Shard Cameron
-    url: http://cameron.zinkhost.cloud
-    port: 22565
-    check: "tcp-ping"
-    ipv6: false
-  - name: Shard Cameron
-    url: http://45.87.172.181
-    port: 2898
-    check: "tcp-ping"
-    ipv6: false
+    url: http://cameron.zinkhost.cloud:22565
   - name: Shard Lewis
-    url: http://lewis.zinkhost.cloud
-    port: 22565
-    check: "tcp-ping"
-    ipv6: false
+    url: http://lewis.zinkhost.cloud:22565
   - name: Shard Ethan
-    url: http://ethan.zinkhost.cloud
-    port: 22565
-    check: "tcp-ping"
-    ipv6: false
+    url: http://ethan.zinkhost.cloud:22565
   - name: Shard Lucas
-    url: http://lucas.zinkhost.cloud
-    port: 22565
-    check: "tcp-ping"
-    ipv6: false
+    url: http://lucas.zinkhost.cloud:22565
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
