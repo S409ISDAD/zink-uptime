@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zink-bot-porductution.onrender.com.ico",
     "slug": "shard-jack",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 196,
     "timeDay": 196,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-11-29": 77
+      "2024-11-30": 111,
+      "2024-11-29": 92
     }
   },
   {
@@ -198,7 +199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-29": 77
+      "2024-11-30": 111,
+      "2024-11-29": 92
     }
   },
   {
