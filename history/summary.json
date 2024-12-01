@@ -52,7 +52,7 @@
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-12-01": 239,
+      "2024-12-01": 267,
       "2024-11-30": 1440,
       "2024-11-29": 92
     }
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dono-01.danbot.host.ico",
     "slug": "shard-robbie",
     "status": "down",
-    "uptime": "15.63%",
+    "uptime": "15.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.63%",
-    "uptimeMonth": "15.63%",
-    "uptimeYear": "15.63%",
+    "uptimeWeek": "15.38%",
+    "uptimeMonth": "15.38%",
+    "uptimeYear": "15.38%",
     "time": 161,
     "timeDay": 0,
     "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2024-12-01": 239,
+      "2024-12-01": 267,
       "2024-11-30": 1255
     }
   },
@@ -101,19 +101,19 @@
     "url": "http://deka.pylex.software:9886",
     "icon": "https://icons.duckduckgo.com/ip3/deka.pylex.software.ico",
     "slug": "shard-cole",
-    "status": "down",
-    "uptime": "61.10%",
-    "uptimeDay": "52.16%",
-    "uptimeWeek": "61.10%",
-    "uptimeMonth": "61.10%",
-    "uptimeYear": "61.10%",
-    "time": 472,
-    "timeDay": 0,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "status": "up",
+    "uptime": "60.26%",
+    "uptimeDay": "50.34%",
+    "uptimeWeek": "60.26%",
+    "uptimeMonth": "60.26%",
+    "uptimeYear": "60.26%",
+    "time": 480,
+    "timeDay": 523,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-12-01": 239,
+      "2024-12-01": 265,
       "2024-11-30": 450
     }
   },
@@ -140,19 +140,19 @@
     "url": "https://zink-bot.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/zink-bot.onrender.com.ico",
     "slug": "shard-jacob",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 496,
-    "timeDay": 401,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "status": "up",
+    "uptime": "98.43%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
+    "time": 481,
+    "timeDay": 398,
+    "timeWeek": 481,
+    "timeMonth": 481,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-12-01": 2
+      "2024-12-01": 28
     }
   },
   {
@@ -161,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cameron.zinkhost.cloud.ico",
     "slug": "shard-cameron",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "98.35%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.35%",
     "time": 262,
     "timeDay": 225,
     "timeWeek": 262,
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-12-01": 2
+      "2024-12-01": 30
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lewis.zinkhost.cloud.ico",
     "slug": "shard-lewis",
     "status": "down",
-    "uptime": "65.00%",
-    "uptimeDay": "56.95%",
-    "uptimeWeek": "65.00%",
-    "uptimeMonth": "65.00%",
-    "uptimeYear": "65.00%",
+    "uptime": "63.98%",
+    "uptimeDay": "55.00%",
+    "uptimeWeek": "63.98%",
+    "uptimeMonth": "63.98%",
+    "uptimeYear": "63.98%",
     "time": 555,
     "timeDay": 1285,
     "timeWeek": 555,
     "timeMonth": 555,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2024-12-01": 239,
+      "2024-12-01": 267,
       "2024-11-30": 380
     }
   },
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-01": 239,
+      "2024-12-01": 267,
       "2024-11-30": 1440,
       "2024-11-29": 92
     }
@@ -224,18 +224,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lucas.zinkhost.cloud.ico",
     "slug": "shard-lucas",
     "status": "down",
-    "uptime": "15.66%",
+    "uptime": "15.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "15.66%",
-    "uptimeMonth": "15.66%",
-    "uptimeYear": "15.66%",
+    "uptimeWeek": "15.41%",
+    "uptimeMonth": "15.41%",
+    "uptimeYear": "15.41%",
     "time": 260,
     "timeDay": 0,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2024-12-01": 239,
+      "2024-12-01": 267,
       "2024-11-30": 1254
     }
   }
